@@ -11,4 +11,4 @@
 </ul><ul>
 <li>Sass</li>
 </ul><h2>Contact</h2>
-<p><span style="margin-right: 30px;"></span><a href="https://github.com/jn341y"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
+<p><a href="https://github.com/jn341y">https://github.com/jn341y</a></p>
